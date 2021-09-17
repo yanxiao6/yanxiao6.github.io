@@ -1,0 +1,96 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Publications 
+
+=== Conference
+- Fine-grained Urban Flow Prediction \n
+*Yuxuan Liang*, Kun Ouyang, Junkai Sun, Yiwei Wang, Junbo Zhang, Yu Zheng, David Rosenblum and Roger Zimmermann \n
+The Web Conference 2021 (WWW), To Appear, 2020.
+
+- AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph \n
+Zheyi Pan, Songyu Ke, Xiaodu Yang, *Yuxuan Liang*, Yong Yu, Junbo Zhang, Yu Zheng \n
+The Web Conference 2021 (WWW), To Appear, 2020.
+
+- Mixup for Node and Graph Classification \n
+Yiwei Wang, Wei Wang, *Yuxuan Liang*, Yujun Cai and Bryan Hooi \n
+The Web Conference 2021 (WWW), To Appear, 2020.
+
+- CurGraph: Curriculum Learning for Graph Classification \n
+Yiwei Wang, Wei Wang, *Yuxuan Liang*, Yujun Cai and Bryan Hooi \n
+The Web Conference 2021 (WWW), To Appear, 2020.
+
+- [https://papers.nips.cc/paper/2020/file/cffb6e2288a630c2a787a64ccc67097c-Paper.pdf Digraph Inception Convolutional Networks] \[[https://github.com/flyingtango/DiGCN Code]\] \n
+Zekun Tong, *Yuxuan Liang*, Changsheng Sun, Xinke Li, David S. Rosenblum, Andrew Lim \n
+in Proc. of The Advances in Neural Information Processing Systems (NeurIPS), 2020.
+
+- [http://urban-computing.com/pdf/2020-ECML-final.pdf Revisiting Convolutional Neural Networks for Citywide Crowd Flow Analytics] \[[https://github.com/yoshall/DeepLGR Code]\] \n
+*Yuxuan Liang*, Kun Ouyang, Yiwei Wang, Ye Liu, Junbo Zhang, Yu Zheng, David S. Rosenblum \n
+in Proc. of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2020.
+
+- [https://bitbucket.org/ghentdatascience/ecmlpkdd20-papers/raw/master/RT/sub_221.pdf Progressive Supervision for Node Classification] \n
+Yiwei Wang, Wei Wang, *Yuxuan Liang*, Yujun Cai, Bryan Hooi \n
+in Proc. of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2020.
+
+- [https://bhooi.github.io/papers/nodeaug_kdd20.pdf NodeAug: Semi-Supervised Node Classification with Data Augmentation] \n
+Yiwei Wang, Wei Wang, *Yuxuan Liang*, Yujun Cai, Juncheng Liu, Bryan Hooi \n
+in Proc. of The ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2020.
+
+- [http://urban-computing.com/pdf/AutoST_kdd20_camera_ready.pdf AutoST: Efficient Neural Architecture Search forSpatio-Temporal Prediction] \n
+Ting Li, Junbo Zhang, Kainan Bao, *Yuxuan Liang*, Yexin Li, Yu Zheng \n
+in Proc. of The ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2020.
+
+- [https://ieeexplore.ieee.org/document/9207324 Unsupervised Learning of Disentangled Location Embeddings] \n
+Kun Ouyang, *Yuxuan Liang*, Wenzhuo Yang, Ye Liu, David S. Rosenblum \n
+in Proc. of The International Joint Conference on Neural Networks (IJCNN), 2020.
+
+- [http://urban-computing.com/pdf/paper_UbiComp20-Ruan.pdf Dynamic Public Resource Allocation based on Human Mobility Prediction] \n
+Sijie Ruan, Jie Bao, *Yuxuan Liang*, Ruiyuan Li, Tianfu He, Chuishi Meng, Yanhua Li, Yingcai Wu, Yu Zheng \n
+in Proc. of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), 2020.
+
+- [http://urban-computing.com/pdf/AAAI-RuanS.361.pdf Learning to Generate Maps from Trajectories] \n
+Sijie Ruan, Cheng Long, Jie Bao, Chunyang Li, Zisheng Yu, Ruiyuan Li, *Yuxuan Liang*, Tianfu He, Yu Zheng \n
+in Proc. of the 34th AAAI Conference, 2020.
+
+- [http://urban-computing.com/pdf/yuxuanUrbanFMKDD2019.pdf UrbanFM: Inferring Fine-Grained Urban Flows] \[[https://github.com/yoshall/UrbanFM Code]\]\n
+*Yuxuan Liang*, Kun Ouyang, Lin Jing, Sijie Ruan, Ye Liu, Junbo Zhang, David S. Rosenblum, Yu Zheng \n
+in Proc. of The ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2019.
+
+- [http://urban-computing.com/pdf/kdd_2019_camera_ready_ST_MetaNet.pdf Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning] \[[https://github.com/panzheyi/ST-MetaNet Code]\]\n
+Zheyi Pan, *Yuxuan Liang*, Weifeng Wang, Yong Yu, Yu Zheng, Junbo Zhang \n
+in Proc. of The ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2019.
+
+- [https://www.ijcai.org/Proceedings/2019/0532.pdf Learning Multi-Objective Rewards and User Utility Function in Contextual Bandits for Personalized Ranking] \n
+Nirandika Wanigasekara, *Yuxuan Liang*, Siong Thye Goh, Ye Liu, Joseph J. Williams, David S. Rosenblum \n
+in Proc. of the 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019.
+
+- [https://www.ijcai.org/Proceedings/2018/0476.pdf GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction] \[[https://github.com/yoshall/GeoMAN Code]\] \n
+*Yuxuan Liang*, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng \n
+in Proc. of the 27th International Joint Conference on Artificial Intelligence (IJCAI), 2018.
+
+- [https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/Traffic-cascading-patterns_Zheng_SIGSPATIAL2017.pdf Inferring Traffic Cascading Patterns] \n
+*Yuxuan Liang*, Zhongyuan Jiang, Yu Zheng \n
+in Proc. of the 25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, 2017.
+
+- [https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/ijcai16-Zheng-water-quality.pdf Urban Water Quality Prediction based on Multi-task Multi-view Learning] \[[https://github.com/yoshall/stMTMVL Code]\]\n
+Ye Liu, Yu Zheng, *Yuxuan Liang*, Shuming Liu, David S. Rosenblum \n
+in Proc. of the 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016.
+
+=== Journal
+- [http://urban-computing.com/pdf/TKDE_UrbanFlowInfer.pdf Fine-Grained Urban Flow Inference] \n
+Kun Ouyang, *Yuxuan Liang*, Ye Liu, Zekun Tong, Sijie Ruan, Yu Zheng, David S. Rosenblum \n
+in IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020.
+
+- [http://urban-computing.com/pdf/MVGCN_Final_Version.pdf Predicting Citywide Crowd Flows in Irregular Regions Using Multi-View Graph Convolutional Networks] \n
+Junkai Sun, Junbo Zhang, Qiaofei Li, Xiuwen Yi, *Yuxuan Liang*, Yu Zheng \n
+in IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020.
+
+- [http://urban-computing.com/pdf/MetaLearning_tkde_2020.pdf Spatio-Temporal Meta Learning for Urban Traffic Prediction] \n
+Zheyi Pan, Wentao Zhang, *Yuxuan Liang*, Weinan Zhang, Yong Yu, Junbo Zhang, Yu Zheng \n
+in IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020.
+
+- [http://urban-computing.com/pdf/Federated_Forest_TBD__Final_Version.pdf Spatio-Temporal Meta Learning for Urban Traffic Prediction] \n
+Yang Liu, Yingting Liu, Zhijie Liu, *Yuxuan Liang*, Chuishi Meng, Junbo Zhang, Yu Zheng \n
+in IEEE Transactions on Big Data (TBD), 2020.
+
+- [http://urban-computing.com/pdf/ieeetbd2020_UrbanWater.pdf Predicting Urban Water Quality with Ubiquitous Data - A Data-driven Approach] \[[https://github.com/yoshall/stMTMVL Code]\] \n
+Ye Liu, *Yuxuan Liang*, Kun Ouyang, Shuming Liu, David S. Rosenblum, Yu Zheng \n
+in IEEE Transactions on Big Data (TBD), 2020.

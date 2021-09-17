@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Yuxuan Liang
+
+~~~
+{}{img_left}{imgs/bio.jpg}{alt text}{120px}
+Yuxuan Liang \n
+Ph.D. Candidate \n
+School of Computing, National University of Singapore \n 
+\n
+Email: yuxliang at outlook.com \n
+\[[https://scholar.google.com/citations?user=n9cODgcAAAAJ&hl=en Google Scholar]\]\[[https://www.linkedin.com/in/yoshall/ Linkedin]\] \[[https://github.com/yoshall Github]\] \n
+
+at 11 Computing Dr, Singapore 117416
+~~~
+
+== About me
+I am a third-year PhD student at School of Computing, National University of Singapore, supervised by Prof. [https://www.comp.nus.edu.sg/~rogerz/ Roger Zimmermann] and Prof. [https://www.comp.nus.edu.sg/~david/index.html David S. Rosenblum]. I have published some papers in refereed journals and conferences (with 800+ citations), such as TKDE, KDD, NeurIPS, WWW, IJCAI, AAAI, MM and UbiComp. I also serve as a PC member (reviewer) for several top-tier conferences, e.g., KDD, ICML, ICLR, NeurIPS, AAAI and ECML-PKDD. Thanks to the supervision of Prof. [http://urban-computing.com/yuzheng Yu Zheng] and Dr. [https://zhangjunbo.org/ Junbo Zhang], I started my research career at Microsoft Research Asia (MSRA) and graduated from Xidian University. My research interests lie in Spatio-Temporal Data Mining, Urban Computing and Graph Learning.
+
+== News
+- \[07-20-2021\] Invited to serve as a session chair of KDD'21.
+- \[07-05-2021\] One paper about learning representations for geotagged images was accepted by ACM MM'21.
+- \[04-30-2021\] One paper about Neural ODEs was accepted by IJCAI'21.
+- \[03-22-2021\] One paper about cascading inference was accepted by IEEE Transactions on Visualization and Computer Graphics (TVCG).
+- \[03-18-2021\] Awarded [https://sdsc.sg/?page_id=12274 SDSC Dissertation Research Fellowship] (10 annual quotas for Singapore-based PhD Students).
+- \[01-16-2020\] Four papers about ST prediction and GNN were accepted by WWW'21.
+- \[08-18-2020\] Attending the [https://outreach.didichuxing.com/app-outreach/EF DiDi-IEEE Elite Forum 2020]
+- \[07-15-2020\] Two papers about STDM were accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE)
+
+== Working Experience
+- \[FTE\] Research Assistant @ National University of Singapore, Singapore, Nov 2018 - April 2019
+- \[Internship\] Algorithm Engineer Intern @ JD.COM, Beijing, China, Jan 2018 - Sep 2018
+- \[Internship\] Reserach Intern @ Microsoft Research, Beijing, China, Jan. 2017 - Jan 2018
+- \[Internship\] Reserach Intern @ Microsoft Research, Beijing, China, Dec. 2015 - Sep 2016
+
+=== Community Services
+- Conference PC member: ICLR'22, AAAI'22, NeurIPS'21, KDD'21, ICML'21, ICLR'21, AAAI'21, NeurIPS'20, AAAI'20, ECML-PKDD'20, etc.
+- Conference External reviewer: KDD'20, IJCAI'19, KDD'19, KDD'18, SDM'18, CIKM'18, KDD'17, CIKM'17, ICDM'16, GIS'16, etc.
+- Journal reviewer: TKDE, TMC, IMWUT, T-ITS, TIST, TR Part C, IEEE Sensor, etc.
